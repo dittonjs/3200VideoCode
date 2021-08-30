@@ -1,0 +1,2 @@
+rootProject.name = "ExerciseTracker"
+include ':app'

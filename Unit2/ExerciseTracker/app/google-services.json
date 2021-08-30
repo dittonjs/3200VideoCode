@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339325392284",
+    "project_id": "exercisetracker-efe7e",
+    "storage_bucket": "exercisetracker-efe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339325392284:android:d28a2cb93289265745e459",
+        "android_client_info": {
+          "package_name": "com.example.exercisetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339325392284-a1sulu2hnkoaqil2cg5uoa02vccu257l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBydLMTIRznkkHo4SorlpKsekuZUd0ciU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339325392284-a1sulu2hnkoaqil2cg5uoa02vccu257l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

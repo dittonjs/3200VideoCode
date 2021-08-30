@@ -1,0 +1,2 @@
+rootProject.name = "DeployMe3200"
+include ':app'

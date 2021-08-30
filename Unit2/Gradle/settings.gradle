@@ -1,0 +1,4 @@
+rootProject.name = "Gradle"
+include ':app'
+include ':watchapp'
+include ':SharedCode'

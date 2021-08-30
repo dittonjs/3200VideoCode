@@ -1,0 +1,2 @@
+rootProject.name = "Debounce"
+include ':app'
